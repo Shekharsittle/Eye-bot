@@ -1,0 +1,11 @@
+langchain-text-splitters
+langchain
+langchain-community
+langgraph
+langchain[groq]
+langchain-core
+langchain-huggingface
+langchain-chroma
+pypdf
+streamlit>=1.27.0
+duckduckgo-search>=3.9.0
